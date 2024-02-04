@@ -1,1 +1,1 @@
-Using Supervised Regression Models to Analyze the Effect of Socioeconomic Disparities in COVID-19 Transmission
+[Using Supervised Regression Models to Analyze the Effect of Socioeconomic Disparities in COVID-19 Transmission](https://medium.com/@anishandabhiram/using-supervised-regression-models-to-analyze-the-effect-of-socioeconomic-disparities-on-covid-19-1e89753ff379)
