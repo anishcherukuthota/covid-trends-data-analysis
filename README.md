@@ -1,1 +1,1 @@
-Using Machine Learning models to determine whether there is an inherent bias based on birth factors and other factors that influences future income.
+Using Supervised Regression Models to Analyze the Effect of Socioeconomic Disparities in COVID-19 Transmission
